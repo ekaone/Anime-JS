@@ -1,6 +1,6 @@
 ## Anime js
 
-'Anime.js' is a lightweight JavaScript animation library with a simple, yet powerful API.
+`Anime.js` is a lightweight JavaScript animation library with a simple, yet powerful API.
 It works with CSS properties, SVG, DOM attributes and JavaScript Objects.
 
 Anims js [documentation](https://animejs.com/documentation/)
@@ -8,6 +8,7 @@ Anims js [documentation](https://animejs.com/documentation/)
 Example [Animis js](https://codepen.io/collection/XLebem/)
 
 ## Author
+
 ✔ Eka Prasetia 🤵
 
 <a href="https://www.ekaprasetia.com/">
@@ -29,5 +30,6 @@ Find example all my [Scratch App](https://twolevel.net) 👉 on working 🛠
 ✔ Community
 
 I am author for two communities in Indonesia
+
 - GatsbyJS Indonesia [Gatsby-ID](https://gatsbyjs.id)
 - RedwoodJS Indonesia [Redwood-ID](https://redwoodjs.id)
