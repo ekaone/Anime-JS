@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Anime-JS/static/css/main.901ec96a.chunk.css",
+    "main.js": "/Anime-JS/static/js/main.dfbb790f.chunk.js",
+    "main.js.map": "/Anime-JS/static/js/main.dfbb790f.chunk.js.map",
+    "runtime-main.js": "/Anime-JS/static/js/runtime-main.52b17286.js",
+    "runtime-main.js.map": "/Anime-JS/static/js/runtime-main.52b17286.js.map",
+    "static/js/2.ec2baf99.chunk.js": "/Anime-JS/static/js/2.ec2baf99.chunk.js",
+    "static/js/2.ec2baf99.chunk.js.map": "/Anime-JS/static/js/2.ec2baf99.chunk.js.map",
+    "index.html": "/Anime-JS/index.html",
+    "precache-manifest.d953a177c97a67172dac879ac40ffa9b.js": "/Anime-JS/precache-manifest.d953a177c97a67172dac879ac40ffa9b.js",
+    "service-worker.js": "/Anime-JS/service-worker.js",
+    "static/css/main.901ec96a.chunk.css.map": "/Anime-JS/static/css/main.901ec96a.chunk.css.map",
+    "static/js/2.ec2baf99.chunk.js.LICENSE.txt": "/Anime-JS/static/js/2.ec2baf99.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Anime-JS/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52b17286.js",
+    "static/js/2.ec2baf99.chunk.js",
+    "static/css/main.901ec96a.chunk.css",
+    "static/js/main.dfbb790f.chunk.js"
+  ]
+}
