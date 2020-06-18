@@ -7,6 +7,14 @@ Anims js [documentation](https://animejs.com/documentation/)
 
 Example [Animis js](https://codepen.io/collection/XLebem/)
 
+## Screenshot
+
+<p align="center">
+  <a href="https://ekaone.github.io/Anime-JS/">
+    <img src="./src/banner.png" alt="Anime JS" />
+  </a>
+</p>
+
 ## Author
 
 ✔ Eka Prasetia 🤵
