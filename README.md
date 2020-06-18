@@ -9,6 +9,8 @@ Example [Animis js](https://codepen.io/collection/XLebem/)
 
 ## Screenshot
 
+Demo [site](https://ekaone.github.io/Anime-JS/)
+
 <p align="center">
   <a href="https://ekaone.github.io/Anime-JS/">
     <img src="./src/banner.png" alt="Anime JS" />
